@@ -1,5 +1,8 @@
 # <a href="https://darshboard.vercel.app/">Dashboard - React app</a>
 
+Dashboard administrativo para medir estadisticas de ventas y usuarios
+
+## skills
 - material UI, Sass, Reacharts
 
 <a href="https://darshboard.vercel.app/">Link a la pagina</a>
